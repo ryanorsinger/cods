@@ -1,3 +1,14 @@
+3.0.0
+
+- enhancement: upgrade to ubuntu 1804
+- enhancement: improve https config
+- feature: add PHP site support
+- feature: manage different java versions (8 and 11)
+- refactor: rename `install.sh` to `cods.sh`
+- refactor: seperate user management into it's own subcommand
+- refactor: rename `cods share` to `cods add`
+- refactor: rename any user-facing command with ssl to https
+
 2.2.3 -- 20190422
 
 - docs: minor improvements/tweaks
